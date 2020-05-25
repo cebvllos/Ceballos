@@ -8,9 +8,10 @@
     </head>
     <body>
   <a href="#main">Skip to main content</a>
-  <h1>Graphics</h1>
+  <h1>Web Portfolio: Graphics</h1>
       <ul>
          <h2> About me</h2>
+         <h2 id="evaluation"/>
          <li> Jonathan Ceballos</li>
          <li>Mrs.Ward</li>
          <li><a href="mailto:jonathanceballos05@icloud.com">jonathanceballos05@icloud.com</a>
@@ -32,6 +33,7 @@
          <li><a href="javascript.html">Javascript</a></li>
           <li><a href="tools.html">Tools</a></li>
           <li><a href="graphics.html">Graphics</a></li>
+          <h2 id="filetypes">Graphic File Types</h2>
  <li><a href="accessibility.html">Accessibility</a></li>     
       </ul>
     </nav>
